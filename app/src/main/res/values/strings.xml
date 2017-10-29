@@ -1,0 +1,80 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Android Basics Quiz App</string>
+    <string name="quiz_title">Test your Korean food knowledge!</string>
+    <string name="quiz_subtitle">The next ten questions will help you determine just how well you know your Korean food, and will give you a big head start when you are next watching \'mokbang\' videos on Youtube.</string>
+
+    <string name="q1q">1. What is the name of the food in the image below?</string>
+    <string name="q1a1">Kachi</string>
+    <string name="q1a2">Kimchi</string>
+    <string name="q1a3">Karachi</string>
+    <string name="q1a4">Cabanossi</string>
+    <string name="q1hint">The correct answer was Kimchi</string>
+
+    <string name="q2q">2. What is the name of the food in the image below?</string>
+    <string name="q2a1">Bondeggi</string>
+    <string name="q2a2">Banana</string>
+    <string name="q2a3">Boogogi</string>
+    <string name="q2a4">Bulgogi</string>
+    <string name="q2hint">The correct answer was Bulgogi</string>
+
+    <string name="q3q">3. What is the name of the food in the image below?</string>
+    <string name="q3a1">Bipbip</string>
+    <string name="q3a2">Bibibap</string>
+    <string name="q3a3">Bibimbap</string>
+    <string name="q3a4">Bibitty bobbity boo</string>
+    <string name="q3hint">The correct answer was Bibimbap</string>
+
+    <string name="q4q">4. What is the name of the food in the image below?</string>
+    <string name="q4a1">Kimkim</string>
+    <string name="q4a2">Kimbap</string>
+    <string name="q4a3">Simkap</string>
+    <string name="q4a4">Sushi</string>
+    <string name="q4hint">The correct answer was Kimbap</string>
+
+    <string name="q5q">5. What is the name of the food in the image below?</string>
+    <string name="q5a1">Noodles</string>
+    <string name="q5a2">Ramyun</string>
+    <string name="q5a3">Ramyeon</string>
+    <string name="q5a4">Ramen</string>
+    <string name="q5hint">Both Ramyun and Ramyeon would be accepted as the answer.</string>
+
+    <string name="q6q">6. Time for a challenge! What are the names of all of the foods in the image below? Check all that apply.</string>
+    <string name="q6a1">Kimchi</string>
+    <string name="q6a2">Bbang</string>
+    <string name="q6a3">Bap</string>
+    <string name="q6a4">Gug</string>
+    <string name="q6a5">Koggiri</string>
+    <string name="q6hint">The correct answer is Kimchi, Bap, and Gug. There is no bread, and happily there are no elephants in this image either.</string>
+
+    <string name="q7q">7. What is the name of the food in the image below?</string>
+    <string name="q7a1">Kimchi Joon</string>
+    <string name="q7a2">Kimchi Joan</string>
+    <string name="q7a3">Kimchi Jeon</string>
+    <string name="q7a4">Kimchi John</string>
+    <string name="q7hint">The correct answer is Kimchi Jeon.</string>
+
+    <string name="q8q">8. What words could be used to refer to the food in the image below?</string>
+    <string name="q8a1">Sangchu</string>
+    <string name="q8a2">Gogi</string>
+    <string name="q8a3">Jjigae</string>
+    <string name="q8a4">Yachae</string>
+    <string name="q8hint">The correct answers are Sangchu and Yachae.</string>
+
+    <string name="q9preq">Now it\'s getting really tough! We\'re not going to give you any hints. Type in the answers to the next two questions.</string>
+    <string name="q9q">9. What is the name of the food in the image below? Type it in the box underneath the image.</string>
+    <string name="q9prompt">Type your answer here</string>
+    <string name="q9hint">Any answer containing \'gochu\' would be accepted.</string>
+
+    <string name="q10q">10. What is the polite way to say thank you after a delicious meal?</string>
+    <string name="q10prompt">Type your answer here</string>
+    <string name="q10hint">Any answer containing all of \'Jal\', \'M\', and \'Subnida\' would be accepted.</string>
+
+    <string name="check_button">Check my answers</string>
+    <string name="low_score_message">Don\'t worry, we\'re all learning!</string>
+    <string name="medium_score_message">Good start, try again!</string>
+    <string name="high_score_message">You did great!</string>
+    <string name="final_score">Your final score was <xliff:g id="score" example="0">%d</xliff:g>/10</string>
+    <string name="try_again">Try again</string>
+    <string name="credit_message">Please note that all of the images in this quiz were sourced without permisission from www.maangchi.com and are used here for educational purposes only.</string>
+    <string name="picture_of_korean_food">Picture of Korean food</string>
+</resources>
